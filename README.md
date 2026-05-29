@@ -1,15 +1,16 @@
-## Languages
+<p align="center"><img width="40" src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif"></p>
+<p align="center"><strong>The requested page is not available.</strong></p>
+<p align="center">If you keep seeing this page, please contact us.</p>
+<p align="center">
+  <a href="https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click">GitHub Status</a>
+  —  
+  <a href="https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
 
-- Java：7 / 8
-- Go：6 / 8
-- Python：6 / 8
-- JavaScript：5 / 8
-- TypeScript：5 / 8
-- Shell：6 / 8
-- 汉语：1 / 8
-- English：1 / 8
-- 日本語：1 / 8
-- italiano：1 / 8
-- 粤语：1 / 8
-- 勾漏片：1 / 8
-- 重庆方言：1 / 8
+
+
+
+
+
